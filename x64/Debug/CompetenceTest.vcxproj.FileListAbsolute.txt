@@ -1,0 +1,3 @@
+C:\Users\Ivan\source\repos\CompetenceTest\CompetenceTest\x64\Debug\CompetenceTest.vcxproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\CompetenceTest\CompetenceTest\x64\Debug\CompetenceTest.MyForm.resources
+C:\Users\Ivan\source\repos\CompetenceTest\CompetenceTest\x64\Debug\CompetenceTest.vcxproj.GenerateResource.cache
