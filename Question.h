@@ -14,9 +14,9 @@ public ref class Question
 	public: String^ solutionB;
 	public: String^ solutionC;
 	public: String^ solutionD;
-	public: String^ trueSolution;
+	public: char trueSolution;
 
-	public: Question(String^ _mainquestion, String^ _description, String^ _solutionA, String^ _solutionB, String^ _solutionC, String^ _solutionD, String^ _trueSolution, float _rate, char _complexity);
+	public: Question(String^ _mainquestion, String^ _description, String^ _solutionA, String^ _solutionB, String^ _solutionC, String^ _solutionD, char _trueSolution, float _rate, char _complexity);
 	~Question() {}
 };
 
